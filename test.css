@@ -1,0 +1,8 @@
+h1{
+    text-align: center
+    
+}
+div:hover{
+      background-color: red;   
+}
+<input type="submit"value="SUBMIT" > <input type="reset"value="RESET" >
